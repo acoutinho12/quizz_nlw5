@@ -1,6 +1,10 @@
 # quizz_nlw5
 
-A new Flutter project.
+[BR] Trilha de flutter da quinta edição da Next Level Week proporcionada pela RocketSeat e ministrada pelo Gabul DEV. 
+O Projeto é um quizz sobre desevolvimento utilizando Flutter.
+
+[EN] Flutter masterclass of the fifth edition of Next Level Week provided by RocketSeat and taught by Gabul DEV.
+The Project is a development quizz using Flutter.
 
 ## Getting Started
 
